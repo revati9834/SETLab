@@ -1,3 +1,3 @@
 # SETLab
 TYCSE :
-Walchand College of Engineering Sangli
+Walchand College of Engineering ,Sangli
